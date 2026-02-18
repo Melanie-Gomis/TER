@@ -5,7 +5,7 @@ import torch.nn as nn
 import torch
 import numpy as np
 from collections import OrderedDict
-from models.models_building_blocks import *
+from models_building_blocks import *
 
 import torch.nn.init as init
 from typing import List
